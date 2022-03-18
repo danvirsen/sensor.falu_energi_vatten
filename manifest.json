@@ -1,0 +1,7 @@
+{
+  "domain": "falu_energi_vatten",
+  "name": "Falu Energi & Vatten",
+  "version": "0.0.1",
+  "codeowners": ["@danvirsen"],
+  "iot_class": "cloud_polling"
+}
